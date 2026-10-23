@@ -17,3 +17,12 @@ Open guides, MCP servers and API notes for a family of India-focused data sites,
 - **[Youth4work](https://youth4work.com/)**: Identify, improve and showcase your talents. [Guide](https://rchtjn2-gif.github.io/youth4work-guide/)
 
 MCP servers and API examples live in the [repositories on this account](https://github.com/rchtjn2-gif?tab=repositories).
+
+## Practical guides
+
+- [How to track any Indian court case with a CNR number](ecourtsindia-guide/track-case-by-cnr.html) and [reading a cause list](ecourtsindia-guide/read-cause-list.html)
+- [The 12 sectors of Indian legal tech](jurisgrid-guide/legal-tech-sectors.html) and [choosing legal software for a small firm](jurisgrid-guide/choose-legal-software-small-firm.html)
+- [Health insurance waiting periods](indiainsurances-guide/health-waiting-periods.html) and [what to do if a claim is rejected](indiainsurances-guide/claim-rejected.html)
+- [Land-record names decoded by state](indiapropertyregister-guide/land-record-names.html) and [buying a bank auction property](indiapropertyregister-guide/bank-auction-checklist.html)
+- [Chef coat fabric for hot kitchens](restrocart-guide/chef-coat-fabric.html) and [menu card materials](restrocart-guide/menu-card-materials.html)
+- [Verify a GSTIN from an invoice](indiacos-guide/verify-gstin-from-invoice.html) · [Why companies need permanent IDs](datagalactica-guide/why-permanent-ids.html) · [Aptitude test 2-week plan](youth4work-guide/aptitude-test-two-week-plan.html) · [Biryani in Hyderabad](indiarestros-guide/biryani-in-hyderabad-guide.html)
